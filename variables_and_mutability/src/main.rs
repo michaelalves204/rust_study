@@ -6,8 +6,8 @@
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 
 fn main() {
-    //por padrão toda variavel é imutavel
-    //para que mossamos manipular os valores é preciso adicionar mut
+    // por padrão toda variavel é imutavel
+    // para que mossamos manipular os valores é preciso adicionar mut
     let mut x = 5;
     println!("o valor de x é: {x}");
 
